@@ -43,6 +43,22 @@ The model reproduced several broad spatial patterns of wildfire propagation.
 
 The results demonstrated the potential of MCE-CA approaches to simulate complex spatial processes while identifying limitations associated with simplified environmental variables, input data quality, and model parameters.
 
+
+## Project Visualizations
+
+### Final Simulation Compared to Actual Fire Spread
+
+![Comparison of simulated and observed wildfire spread](figures/final-simulation.png)
+
+### Wildfire Suitability Maps
+
+![Multicriteria evaluation suitability maps](figures/suitability-maps.png)
+
+## Full Research Paper
+
+[Read the full wildfire modelling research paper](wildfire-modelling-report.pdf)
+
+
 ## Limitations and Future Research
 
 The study identified several opportunities for further development:
