@@ -48,15 +48,15 @@ The results demonstrated the potential of MCE-CA approaches to simulate complex 
 
 ### Final Simulation Compared to Actual Fire Spread
 
-![Comparison of simulated and observed wildfire spread](figures/final-simulation.png)
+![Comparison of simulated and observed wildfire spread](figures/Wildfirespread_Comparison.png)
 
 ### Wildfire Suitability Maps
 
-![Multicriteria evaluation suitability maps](figures/suitability-maps.png)
+![Multicriteria evaluation suitability maps](figures/Paradise_Fire_Suitability_Map.png)
 
 ## Full Research Paper
 
-[Read the full wildfire modelling research paper](wildfire-modelling-report.pdf)
+[Read the full wildfire modelling research paper](Paradise_wildfire_modelling_report.pdf)
 
 
 ## Limitations and Future Research
