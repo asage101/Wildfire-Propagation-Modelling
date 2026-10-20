@@ -1,5 +1,7 @@
 # Wildfire-Propagation-Modelling
-** A GIS-based simulation of the 2003 Paradise Wildfire using Multicriteria Evaluation and Cellular Automata (MCE-CA).**
+
+**A GIS-based simulation of the 2003 Paradise Wildfire using Multicriteria Evaluation and Cellular Automata (MCE-CA)**
+
 **Authors:** Alina Pharis and Varian Yu  
 **Institution:** Simon Fraser University  
 **Course:** GEOG 451 – Spatial Modelling  
