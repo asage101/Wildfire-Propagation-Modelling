@@ -48,7 +48,7 @@ The results demonstrated the potential of MCE-CA approaches to simulate complex 
 
 ### Final Simulation Compared to Actual Fire Spread
 
-![Comparison of simulated and observed wildfire spread](figures/Wildfirespread_Comparison.png)
+![Comparison of simulated and observed wildfire spread](figures/Wildfirespread_Comparison.jpg)
 
 ### Wildfire Suitability Maps
 
